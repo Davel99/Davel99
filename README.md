@@ -1,10 +1,10 @@
-Software Engineer
-Interested in cloud and working to learn about AWS
+Engineer enthusiastic about everything related to software
+Interested in Data engineering/analysis
 
-- Java 8 - Spring Boot
-- Javascript/Typescript - AngularJS
-- SQL databases (MySQL, Oracle)
-- Also experienced in ETL pipelines using Python for extraction and transformation
+- Python
+- Java - Spring Boot
+- SQL / NoSQL
+- Experienced in ETL pipelines using Python for extraction and transformation
 
 
 
