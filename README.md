@@ -1,5 +1,4 @@
 Engineer enthusiastic about everything related to software
-Interested in Data engineering/analysis
 
 - Python
 - Java - Spring Boot
